@@ -5,4 +5,9 @@
 
 ![Image sample added](https://octodex.github.com/images/yaktocat.png)
 
+```
+val sum = 8 + 9
+println(sum)
+```
+
 Markdown test header commited

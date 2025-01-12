@@ -10,4 +10,8 @@ val sum = 8 + 9
 println(sum)
 ```
 
+- [ ] Item 1
+- [ ] Item 2
+- [X] Item 3
+
 Markdown test header commited
